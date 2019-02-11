@@ -1,0 +1,27 @@
+{
+  "name": "fudbot",
+  "version": "1.0.0",
+  "description": "\"Build a bot in Node.js on Microsoft Bot Framework.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dulex-thembeats/Microsoft-bot-.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "whatever"
+  ],
+  "author": "Dulex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulex-thembeats/Microsoft-bot-/issues"
+  },
+  "homepage": "https://github.com/dulex-thembeats/Microsoft-bot-#readme",
+  "dependencies": {
+    "botbuilder": "^4.2.1"
+  }
+}
